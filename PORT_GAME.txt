@@ -43,5 +43,6 @@ UDP : 27000-28998,39000
 
 
 Sumber : https://bilhanet.com/daftar-port-game-online-untuk-mikrotik-firewall/
+Refrensi : https://github.com/alsyundawy/MIKROTIK-SCRIPT/blob/master/Daftar%20Port%20Game%20Online%20Game%20Mobile%20Game%20Web%20Game%20FB.txt
 
 =====================================================================
